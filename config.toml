@@ -1,0 +1,11 @@
+baseURL = 'http://example.org/'
+languageCode = 'en'
+title = 'Stuffs.dev'
+theme = "hugo-theme-monochrome"
+
+[params]
+# navbar_title = 'About software engneering, career and stuff.'
+footer = 'Copyright © 2022 by Michal Pasierbski'
+
+[markup.goldmark.renderer]
+unsafe= true
