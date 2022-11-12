@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://www.stuffs.dev/'
 languageCode = 'en'
 title = 'Stuffs.dev'
 theme = "hugo-theme-monochrome"

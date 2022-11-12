@@ -1,7 +1,6 @@
 ---
 title: "How I got to Google as a self-taught software engineer"
 date: 2022-09-17T20:07:28+01:00
-draft: true
 summary: "FAANG interviews are notoriously difficult, intimidating and stressful. Good news is that if I could do it, so can you! Here are some tip how to prepare."
 ---
 
