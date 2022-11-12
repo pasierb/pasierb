@@ -6,8 +6,12 @@ canonifyURLs = true
 enableRobotsTXT = true
 googleAnalytics = 'G-Q9P9TKBGSC'
 
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
 [params]
 footer = 'Copyright © 2022 by Michal Pasierbski'
+enable_site_search = true
 
 [params.utterances]
 repo = 'pasierb/pasierb'
