@@ -9,5 +9,10 @@ googleAnalytics = 'G-Q9P9TKBGSC'
 [params]
 footer = 'Copyright © 2022 by Michal Pasierbski'
 
+[params.utterances]
+repo = 'pasierb/pasierb'
+issueTerm = 'pathname'
+theme = 'preferred-color-scheme'
+
 [markup.goldmark.renderer]
 unsafe= true

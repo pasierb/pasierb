@@ -2,6 +2,7 @@
 title: "How I got to Google as a self-taught software engineer"
 date: 2022-09-17T20:07:28+01:00
 summary: "FAANG interviews are notoriously difficult, intimidating and stressful. Good news is that if I could do it, so can you! Here are some tip how to prepare."
+showComments: true
 ---
 
 Landing a SWE job at Google is no easy feat. Being self-taught seemingly hinders one’s chances, but how about adding to it:

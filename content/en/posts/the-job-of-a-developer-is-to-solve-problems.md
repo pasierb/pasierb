@@ -2,6 +2,7 @@
 title: '“The job of a developer is not to write code. It is to solve problems”'
 date: 2022-09-18T18:30:27+01:00
 summary: "A short story of a startup killed by a well architected code."
+showComments: true
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The job of a developer is not to write code. It is to solve problems ⚡️</p>&mdash; Marc Backes (@themarcba) <a href="https://twitter.com/themarcba/status/1571142654565416962?ref_src=twsrc%5Etfw">September 17, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

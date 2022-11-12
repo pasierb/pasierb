@@ -2,6 +2,7 @@
 title: "Free blog setup with GitHub and Hugo"
 date: 2022-11-12T13:58:03+01:00
 summary: "I recently moved my blog from Wordpress hosted on DigitalOcean to Hugo hosted on GithHub pages. Here's how and why I did it."
+showComments: true
 ---
 
 I recently moved my blog from Wordpress hosted on DigitalOcean to [Hugo](https://gohugo.io/) hosted on [GitHub pages](https://pages.github.com/). Here's how and why I did it.
