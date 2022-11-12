@@ -3,6 +3,8 @@ languageCode = 'en'
 title = 'Stuffs.dev'
 theme = "hugo-theme-monochrome"
 canonifyURLs = true
+enableRobotsTXT = true
+googleAnalytics = 'G-Q9P9TKBGSC'
 
 [params]
 footer = 'Copyright © 2022 by Michal Pasierbski'
