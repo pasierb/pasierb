@@ -1,17 +1,21 @@
 baseURL = 'https://www.stuffs.dev/'
 languageCode = 'en'
 title = 'Stuffs.dev'
-theme = "hugo-theme-monochrome"
+theme = "hugo-theme-terminal"
 canonifyURLs = true
 enableRobotsTXT = true
 googleAnalytics = 'G-Q9P9TKBGSC'
+paginate = 5
 
 [outputs]
-home = ["HTML", "RSS", "JSON"]
+home = ["HTML", "RSS"]
 
 [params]
-footer = 'Copyright © 2022 by Michal Pasierbski'
-enable_site_search = true
+contentTypeName = "en/posts"
+themeColor = "orange"
+
+[params.logo]
+logoText = "Stuffs.dev"
 
 [params.utterances]
 repo = 'pasierb/pasierb'
@@ -19,4 +23,15 @@ issueTerm = 'pathname'
 theme = 'preferred-color-scheme'
 
 [markup.goldmark.renderer]
-unsafe= true
+unsafe = true
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    missingContentMessage = "Page not found..."
+    missingBackButtonLabel = "Back to home page"

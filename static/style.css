@@ -1,0 +1,14 @@
+.intro {
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+    align-items: center;
+}
+
+.intro > .author-avatar {
+    max-width: 30%;
+}
+
+.author-avatar {
+    border-radius: 50%;
+}
