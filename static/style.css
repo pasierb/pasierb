@@ -12,3 +12,8 @@
 .author-avatar {
     border-radius: 50%;
 }
+
+blockquote {
+    border: 0;
+    font-style: italic;
+}
