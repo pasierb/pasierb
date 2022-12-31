@@ -8,4 +8,6 @@ author: "Michal"
 tags:
 - index
 layout: list
+cascade:
+- readingTime: true
 ---
