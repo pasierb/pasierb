@@ -41,6 +41,10 @@ unsafe = true
     missingBackButtonLabel = "Back to home page"
   [languages.en.menu]
     [[languages.en.menu.main]]
+      identifier = "posts"
+      name = "Posts"
+      url = "/posts"
+    [[languages.en.menu.main]]
       identifier = "about"
       name = "About"
       url = "/about"
