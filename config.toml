@@ -1,5 +1,5 @@
 baseURL = 'https://www.stuffs.dev/'
-languageCode = 'en'
+defaultContentLanguage = 'en'
 title = 'Stuffs.dev'
 theme = "hugo-theme-terminal"
 canonifyURLs = true
@@ -27,6 +27,7 @@ unsafe = true
 
 [languages]
   [languages.en]
+    contentDir = 'content/en'
     languageName = "English"
     menuMore = "Show more"
     readMore = "Read more"
