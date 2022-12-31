@@ -2,7 +2,7 @@
 title: About me
 ---
 
-{{<about_me_intro>}}
+{{<about_me_intro withImage="true">}}
 
 I'm mostly busy working on websites, both pretty (frontend) and ugly (backend) side.
 
