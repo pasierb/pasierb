@@ -17,3 +17,16 @@ blockquote {
     border: 0;
     font-style: italic;
 }
+
+.header__logo {
+    border-bottom: 1px solid var(--accentColor);
+}
+
+.header__logo::after {
+    display: none;
+}
+
+.logo {
+    color: var(--accentColor);
+    background-color: transparent;
+}
