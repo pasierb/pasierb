@@ -11,11 +11,14 @@ paginate = 5
 home = ["HTML", "RSS"]
 
 [params]
-contentTypeName = "en/posts"
+contentTypeName = "posts"
 themeColor = "orange"
 
 [params.logo]
 logoText = "Stuffs.dev"
+
+[params.twitter]
+site = "@mpasierbski"
 
 [params.utterances]
 repo = 'pasierb/pasierb'
