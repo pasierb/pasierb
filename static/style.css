@@ -9,6 +9,10 @@
     max-width: 30%;
 }
 
+.content {
+    font-family: sans-serif;
+}
+
 .author-avatar {
     border-radius: 50%;
 }
