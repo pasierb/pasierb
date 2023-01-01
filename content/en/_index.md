@@ -1,5 +1,5 @@
 ---
-layout: "list"
+layout: "index"
 ---
 
 {{<about_me_intro>}}
