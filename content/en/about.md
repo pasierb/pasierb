@@ -2,7 +2,18 @@
 title: About me
 ---
 
-{{<about_me_intro withImage="true">}}
+<img src="/me_summertime.jpg" class="author-avatar" title="Me">
+
+Hi there!
+
+My name is Michal Pasierbski, I'm a software engineer at Google.
+This is my (mainly about work) personal blog.
+
+You can find me also at:
+
+- Twitter [@mpasierbski](https://twitter.com/mpasierbski)
+- LinkedIn [mpasierbski](https://www.linkedin.com/in/mpasierbski/)
+- GitHub [pasierb](https://github.com/pasierb)
 
 ---
 
