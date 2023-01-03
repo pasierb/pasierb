@@ -35,4 +35,5 @@ blockquote {
 .logo {
     color: var(--accentColor);
     background-color: transparent;
+    font-weight: bold;
 }
