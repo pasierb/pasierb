@@ -12,7 +12,7 @@ home = ["HTML", "RSS"]
 
 [params]
 contentTypeName = "posts"
-themeColor = "orange"
+themeColor = "green"
 
 [params.logo]
 logoText = "Stuffs.dev"
