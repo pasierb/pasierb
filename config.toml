@@ -13,12 +13,15 @@ home = ["HTML", "RSS"]
 [params]
 contentTypeName = "posts"
 themeColor = "green"
+authortwitter = "@mpasierbski"
+author = "Michal Pasierbski"
 
 [params.logo]
 logoText = "Stuffs.dev"
 
 [params.twitter]
 site = "@mpasierbski"
+creator = "@mpasierbski"
 
 [params.utterances]
 repo = 'pasierb/pasierb'
