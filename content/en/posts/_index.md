@@ -9,5 +9,6 @@ tags:
 - index
 layout: list
 cascade:
-- readingTime: true
+- showReadingTime: true
+- comments: true
 ---

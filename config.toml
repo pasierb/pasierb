@@ -15,7 +15,6 @@ contentTypeName = "posts"
 themeColor = "green"
 authortwitter = "@mpasierbski"
 author = "Michal Pasierbski"
-showReadingTime = true
 
 [[params.socialIcons]]
 name = "twitter"
