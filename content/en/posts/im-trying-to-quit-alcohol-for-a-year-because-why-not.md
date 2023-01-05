@@ -1,5 +1,5 @@
 ---
-title: "I'm quiting alcohol for a year"
+title: "I'm quitting alcohol for a year"
 date: "2023-01-02T09:11:40+01:00"
 slug: "im-quiting-alcohol-for-a-year"
 cover:
