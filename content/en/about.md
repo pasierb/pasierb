@@ -2,7 +2,7 @@
 title: About me
 ---
 
-<img src="/me_summertime.jpg" class="author-avatar" title="Me">
+![Me](/me_summertime.jpg)
 
 Hi there!
 
