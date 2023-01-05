@@ -47,7 +47,7 @@ Lately one good party is able to take me out for a good day or two out of my ryt
 I'm very curious about effects of this challange.
 Obviously I already have in mind some outcomes, but what interest me the most is how wrong I am 😅.
 
-I expect that direct (and indirect) effect of not drinking for a year will be:
+I expect that direct (and indirect) effects of not drinking for a year will include:
 
 1. Visible body fat loss
 1. Some relationships deteriorating
