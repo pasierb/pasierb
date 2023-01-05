@@ -8,7 +8,7 @@ googleAnalytics = 'G-Q9P9TKBGSC'
 paginate = 5
 
 [outputs]
-home = ["HTML", "RSS"]
+home = ["HTML", "RSS", "JSON"]
 
 [params]
 contentTypeName = "posts"
@@ -48,3 +48,7 @@ unsafe = true
       identifier = "about"
       name = "About"
       url = "/about"
+    [[languages.en.menu.main]]
+      identifier = "search"
+      name = "Search"
+      url = "/search"
