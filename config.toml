@@ -16,10 +16,6 @@ themeColor = "green"
 authortwitter = "@mpasierbski"
 author = "Michal Pasierbski"
 
-[[params.socialIcons]]
-name = "twitter"
-url = "<link>"
-
 [params.twitter]
 site = "@mpasierbski"
 creator = "@mpasierbski"
