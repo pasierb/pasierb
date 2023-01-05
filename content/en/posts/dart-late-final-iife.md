@@ -2,9 +2,10 @@
 title: "Dart: late + final = easy and safe caching"
 date: 2022-12-31T10:18:25+01:00
 slug: 'dart-late-final-for-simple-and-safe-caching'
-cover: dart-logo-for-shares.png
 tags:
 - dart
+cover:
+  image: dart-logo-for-shares.png
 ---
 
 Let's say You have a `Person` class and You want to expose `netWorth` field.
@@ -18,19 +19,19 @@ Here's how to use new `late` variables feature to implement easy and safe cachin
 
 We could start with super simple approach, i.e. fetch the value every time we use it.
 
-{{<code language="dart">}}
+```dart
 class Person {
   Future<num> netWorth() => _fetchNetWorth();
 }
 
 // await person.netWorth()
-{{</code>}}
+```
 
 ## Cache result
 
 Instead of calling `_fetchNetWorth` every time we could call it only once and cache the results.
 
-{{<code language="dart">}}
+```dart
 class Person {
   Future<num>? _fetchNetWorthFuture;
 
@@ -42,7 +43,7 @@ class Person {
 }
 
 // await person.netWorth()
-{{</code>}}
+```
 
 There is an open question hanging in the air: why `netWorth` is `Future<num>` and not simply `num`?
 We could have some initialization function that could resolve the future, right?
@@ -68,13 +69,13 @@ With introduction of sound null-safty we got access to [`late`](https://dart.dev
 Possibility to have initializer on `late` variables allows us to get rid of intermidiate `_fetchNetWorthFuture` variable.
 Slapping `final` gives us compilte time guarantee that the variable will be assigned only once.
 
-{{<code language="dart">}}
+```dart
 class Person {
   // Potentially expensive calculation.
   late final netWorth = _fetchNetWorth();
 }
 
 // await person.netWorth
-{{</code>}}
+```
 
 [^1]: https://dart.dev/null-safety/understanding-null-safety#lazy-initialization

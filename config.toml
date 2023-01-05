@@ -1,7 +1,7 @@
 baseURL = 'https://www.stuffs.dev/'
 defaultContentLanguage = 'en'
 title = 'Stuffs.dev'
-theme = "hugo-theme-terminal"
+theme = "papermod"
 canonifyURLs = true
 enableRobotsTXT = true
 googleAnalytics = 'G-Q9P9TKBGSC'
@@ -15,9 +15,11 @@ contentTypeName = "posts"
 themeColor = "green"
 authortwitter = "@mpasierbski"
 author = "Michal Pasierbski"
+showReadingTime = true
 
-[params.logo]
-logoText = "Stuffs.dev"
+[[params.socialIcons]]
+name = "twitter"
+url = "<link>"
 
 [params.twitter]
 site = "@mpasierbski"

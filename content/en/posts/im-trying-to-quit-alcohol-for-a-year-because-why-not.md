@@ -1,9 +1,10 @@
-+++
-title = "I'm quiting alcohol for a year"
-date = "2023-01-02T09:11:40+01:00"
-slug = "im-quiting-alcohol-for-a-year"
-cover = "sign-no-alcohol.jpg"
-+++
+---
+title: "I'm quiting alcohol for a year"
+date: "2023-01-02T09:11:40+01:00"
+slug: "im-quiting-alcohol-for-a-year"
+cover:
+    image: "sign-no-alcohol.jpg"
+---
 
 This is one of those "hold me accountable" posts.
 I want to see in 12 months how great of a decission it was / how delusional and naive I was - yet to be decided on the outcome.

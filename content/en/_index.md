@@ -1,5 +1,4 @@
 ---
-layout: "index"
 ---
 
 Hi! My name is Michal, I'm a software engineer with 10+ years of experience.
